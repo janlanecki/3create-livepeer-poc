@@ -1,6 +1,6 @@
 import { Player } from '@livepeer/react';
  
-const playbackId = '4459k7e8g47udk6c';
+const playbackId = '3cb9f750-45f5-445f-a9e0-47ffe0dcd64d';
  
 export const DemoPlayer = () => {
   return (
